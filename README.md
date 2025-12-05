@@ -8,6 +8,7 @@ SETTING UP THE PROJECT
 Before starting the inference paste folders from drive: https://drive.google.com/drive/folders/1RaGRy-zwqtYEE_VeE_hTn8V12x76jxhN?usp=sharing
 
 dataset_cropped_224x224_newest.zip paste to the folder ./content/dataset_cropped_224x224_newest/
+
 models.zip paste to the folder ./
 
 --------------------------------------------------------------------------------
@@ -95,3 +96,4 @@ NOTES
 - All inference scripts count the number of params and MACs ONLY for the backbone model, excluding F-RCNN, RPN and FPN params and MACs
 
 --------------------------------------------------------------------------------
+
